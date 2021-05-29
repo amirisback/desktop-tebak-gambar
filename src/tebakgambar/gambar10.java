@@ -165,10 +165,8 @@ public class gambar10 extends javax.swing.JFrame {
         
         jawaban = String.valueOf(txt_jawab.getText());
         if (jawaban.equalsIgnoreCase(kunci)){
-            pemain p = new pemain();
             finish fin = new finish();
             fin.setVisible(true);
-            System.out.println(p.getNama());
             this.dispose();
         } else {
             txt_notif.setText("Jawaban Salah");
