@@ -8,7 +8,7 @@ This Is Latest Release
 
 What's New??
 
-    * Promadika Project *
+    * Tebak Gambar Project *
 
 ## ScreenShoot Apps
 
