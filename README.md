@@ -1,6 +1,15 @@
 ## Tebak Gambar
 TebakGambar is java games project using Apache Netbeans IDE
 
+## Version Release
+This Is Latest Release
+
+    $version_release = 1.0.0
+
+What's New??
+
+    * Promadika Project *
+
 ## ScreenShoot Apps
 
 ### SS 1. Start Apps
